@@ -1,4 +1,4 @@
 ## BlackJack Single Player Game
 
-![Application Preview](./black-jack-game-preview.mp4)
+![Application Preview](./black-jack-game-preview.gif)
 
